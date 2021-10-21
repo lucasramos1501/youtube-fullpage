@@ -6,7 +6,7 @@ Permite ver os vídeos do youtube no navegador do computador ocupando a página 
 
 ## 🎨Layout
 
-![Tela Inicial](images\1.png)
+![Tela Inicial](images/1.png)
 
-![do Vídeo](images\2.png)
+![Tela do Vídeo](images/2.png)
 
